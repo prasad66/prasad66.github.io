@@ -15,7 +15,7 @@ body{
 
 .container{
     display: flex;
-    width: 55%;
+    width: 50%;
 }
 
 .card{
