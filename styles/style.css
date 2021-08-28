@@ -98,15 +98,3 @@ h2{
 
 }
 
-@media screen and (max-width: 1105px) {
-    .container{
-        width: 330px;
-    height: 680px;
-    flex-direction: column;
-   }
-
-   .card{
-       border-radius: 7px;
-       margin: 2px;
-   }
-}
